@@ -8,3 +8,5 @@ code that actually replaces the images has been removed due to safety reasons, s
 cheemsit is written in x86_64 intel assembly and a bash script to build it
 
 not sure why github identifies this as 50% c++
+
+![Alt text](cheemsit/content/cheems.png/?raw=true "cheems")
