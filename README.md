@@ -5,6 +5,6 @@ cheemsit will scan your file directory and test for image files (png and jpeg on
 
 code that actually replaces the images has been removed due to safety reasons, so this program SHOULD be completely harmless to run
 
-![Alt text](cheemsit/content/cheems.png/?raw=true "cheems")
+if you want the "fun" version, just message me!
 
-cheemsit is written in x86_64 intel assembly and a bash script to build it
+![Alt text](cheemsit/content/cheems.png/?raw=true "cheems")
